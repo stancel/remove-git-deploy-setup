@@ -1,0 +1,18 @@
+---
+# vars file for remove-git-deploy-setup
+
+# List of sites to remove Git deployments for
+remove_git_deploy_setup_sites_to_remove:
+  - {
+      url: 'somesite.com'
+    }
+  - {
+      url: 'mysubdomain.somesite.com'
+    } 
+
+
+#####     Optional Variables      #####
+
+# The file path on the server for setting up the git bare repo
+#remove_git_deploy_setup_git_home: "/var/git"
+

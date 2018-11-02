@@ -1,0 +1,31 @@
+galaxy_info:
+  author: "Brad Stancel"
+  
+  description: "Remove one or more git deployments to a webserver"
+  
+  company: YourOnlineDept.com
+
+  license: GPLv3
+
+  min_ansible_version: 2.4
+
+  github_branch: master
+  
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+    - xenial
+    - beaver
+  - name: Debian
+    versions:
+    - wheezy
+    - jessie
+    - stretch
+
+  galaxy_tags: 
+    - git
+    - deploy
+
+
+dependencies: []
