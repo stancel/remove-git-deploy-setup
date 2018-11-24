@@ -61,5 +61,3 @@ Author Information
 ------------------
 
 [Brad Stancel](https://github.com/stancel) 
-
-

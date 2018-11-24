@@ -16,7 +16,7 @@ galaxy_info:
     versions:
     - trusty
     - xenial
-    - beaver
+    - bionic
   - name: Debian
     versions:
     - wheezy
@@ -26,6 +26,5 @@ galaxy_info:
   galaxy_tags: 
     - git
     - deploy
-
 
 dependencies: []

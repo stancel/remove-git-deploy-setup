@@ -7,5 +7,3 @@
     path: "{{ remove_git_deploy_setup_git_home }}/{{ item.url }}.git"
   with_items: '{{ remove_git_deploy_setup_sites_to_remove }}'
   ignore_errors: yes
-
-
