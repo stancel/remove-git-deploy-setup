@@ -1,8 +1,6 @@
 galaxy_info:
   author: "Brad Stancel"
-  
   description: "Remove one or more git deployments to a webserver"
-  
   company: YourOnlineDept.com
 
   license: GPLv3
